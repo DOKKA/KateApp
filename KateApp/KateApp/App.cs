@@ -21,7 +21,7 @@ namespace KateApp
                     Children = {
                         new Label {
                             HorizontalTextAlignment = TextAlignment.Center,
-                            Text = "Welcome to Xamarin Forms!"
+                            Text = "I <3 you kate!"
                         }
                     }
                 }
